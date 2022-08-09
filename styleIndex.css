@@ -228,3 +228,7 @@ main{
     width: 86%;
     cursor: pointer;
 }
+.inputMensagem{
+    color: #000000a4;
+    font-size: 12px;
+}
